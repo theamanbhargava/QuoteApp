@@ -1,12 +1,12 @@
 {
   "name": "quotegen",
   "version": "1.0.0",
-  "description": "",
+  "description": "Random Quote Generator",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aman Bhargava",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
